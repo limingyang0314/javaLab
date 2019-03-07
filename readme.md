@@ -1,1 +1,2 @@
 直接放src里就能跑了！
+main函数在ComputerStore里
